@@ -66,11 +66,6 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
   
   Crea el entorno controlado y prueba la aplicación en él.
 
-    sudo apt update && sudo apt upgrade -y
-  
-    sudo apt install firejail -y
-  
-    firejail ./programa_sospechoso
   
   Documenta cómo has desarrollado el proyecto en github.
 
