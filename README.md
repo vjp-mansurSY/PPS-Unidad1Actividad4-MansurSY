@@ -66,26 +66,32 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
   
   Crea el entorno controlado y prueba la aplicación en él.
 
-Primero descargamos sandboxie la versión clásica
+Primero descargamos sandboxie la versión clásica.
+
 ![image](https://github.com/user-attachments/assets/1bcef9e7-61cd-4223-b667-16a7f2913a47)
 
-Lo instalamos
+Lo instalamos.
 
 ![image](https://github.com/user-attachments/assets/89cc897f-0379-45fc-9ab8-350e754648fa)
 
-Y una vez terminada la instalación cogemos y arrastramos nuestro pequeño programa python, hay que tener en cuenta que hay que tener instalada previamente la última versión de python
+Y una vez terminada la instalación cogemos y arrastramos nuestro pequeño programa python, hay que tener en cuenta que hay que tener instalada previamente la última versión de python.
+
 ![image](https://github.com/user-attachments/assets/64bb8cf0-7d37-420d-82ec-d8183c647f46)
 
-Nos saldra esta ventana preguntando en que entorno sandbox queremos ejecutar el programa de forma aislada por si tenemos varios y también nos da la opción de ejecutar fuera del sandbox, en nuestro caso simplemente tenemos uno asi que le damos al botón de "Aceptar" 
+Nos saldra esta ventana preguntando en que entorno sandbox queremos ejecutar el programa de forma aislada por si tenemos varios y también nos da la opción de ejecutar fuera del sandbox, en nuestro caso simplemente tenemos uno asi que le damos al botón de "Aceptar".
+
 ![image](https://github.com/user-attachments/assets/6ce4ef2c-09f1-472c-8879-d3c4ff183c87)
 
-Posteriormente se nos ejecutará el programa podemos probar cualquier opción que tenemos en el programa cuan finalice la operación se saldra de esa ventana y volvera a la ventana del inicio
+Posteriormente se nos ejecutará el programa podemos probar cualquier opción que tenemos en el programa cuan finalice la operación se saldra de esa ventana y volvera a la ventana del inicio.
+
 ![image](https://github.com/user-attachments/assets/0bd7ef33-5211-4c4d-9b5f-6031852364b0)
 
-Pero ahora podemos ver los operaciones por detras y a que carpetas y archivos que ha accedido dandole a la opción de "Ver" abriendonos una serie de más opciones, de forma predeterminada esta seleccionada la de "Programas" asi que seleccionaremos la de "Archivos y Carpetas"
+Pero ahora podemos ver los operaciones por detras y a que carpetas y archivos que ha accedido dandole a la opción de "Ver" abriendonos una serie de más opciones, de forma predeterminada esta seleccionada la de "Programas" asi que seleccionaremos la de "Archivos y Carpetas".
+
 ![image](https://github.com/user-attachments/assets/f6c0d9f5-22e3-4779-ba54-0266cf47539e)
 
-Vemos que nos muestra los diferentes archivos y carpetas que ha accedido para realizar las operaciones del programa
+Vemos que nos muestra los diferentes archivos y carpetas que ha accedido para realizar las operaciones del programa.
+
 ![image](https://github.com/user-attachments/assets/430dcb7c-127d-4d64-85fd-cae8765c1963)
 
   Documenta cómo has desarrollado el proyecto en github.
